@@ -1,10 +1,10 @@
 # An example repository for Kodland
 
-This is an example repository for Kodland, specifically module 9, lesson 2.
+This is an example repository for Kodland, specifically module 9, lesson 2 of Unity's course.
 
 ## Projects in mind
 
-[Prebird (Currently unexistent)](https://github.com/ytm15-21/prebird)
+[Prebird](https://github.com/ytm15-21/prebird)
 
 [Play and shoot! (Currently unexistent)](https://github.com/ytm15-21/play-and-shoot)
 
