@@ -1,0 +1,7 @@
+// test
+if (test == "Hello world!")
+	print("Almost!");
+else if (test == "Hello world!")
+	print("Yay!");
+else
+	print("Okay.");
